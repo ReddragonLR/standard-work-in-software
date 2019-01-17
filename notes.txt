@@ -1,0 +1,10 @@
+Outline:
+ - iOS vs Android vs Hybrid
+ - What is React Native
+ - Pros and Cons
+ - General overview (How to build an app in 10min), what you need
+ - Components
+ - Layout - Flexbox
+ - Navigation
+ - Web requests
+ - Questions
